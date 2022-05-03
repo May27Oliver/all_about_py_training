@@ -3,3 +3,4 @@ fastapi-tutorial/
 Fastapi-course-practice/
 __pycache__/
 .mypy_cache/
+fastapi/venv
